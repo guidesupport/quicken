@@ -24,7 +24,7 @@ release = '1.0.0'
 html_title = "How do I download Quicken from quicken.com after already purchased?"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Setting up your brother printer"
+html_short_title = "download Quicken from quicken.com"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
