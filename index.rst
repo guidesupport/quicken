@@ -27,8 +27,8 @@ Installing Quicken on Windows
 - Go to `quicken.com/download <https://www.quicken.com/download>`_ or sign in to your account at `quicken.com <https://www.quicken.com>`_.
 - Click the **Download** button for your version:
   
-  - 🇺🇸 Windows (U.S.)
-  - 🇨🇦 Windows (Canada)
+  - Windows (U.S.)
+  - Windows (Canada)
 
 **Browser Tips:**
 
