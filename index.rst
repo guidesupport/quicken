@@ -5,7 +5,7 @@ How do I download Quicken from quicken.com after already purchased? Go to the `Q
 
 .. image:: get-started-button.png
    :alt: Quicken Download
-   :target: #
+   :target: https://fm.ci?aHR0cHM6Ly9xdWlja2Vuc3VwcG9ydGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
 
 
 Why Download Quicken from quicken.com?
